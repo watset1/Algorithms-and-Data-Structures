@@ -1,0 +1,9 @@
+Linear probing times:
+15.6394
+0
+Double Hash times:
+0
+15.6391
+Chaining times:
+0
+0
